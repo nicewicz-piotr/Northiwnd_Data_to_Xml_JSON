@@ -1,0 +1,11 @@
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.deps.json
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.runtimeconfig.json
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.runtimeconfig.dev.json
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.dll
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.pdb
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.csprojAssemblyReference.cache
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.AssemblyInfoInputs.cache
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.AssemblyInfo.cs
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.dll
+C:\Users\Piotr\Documents\C# projects\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.pdb
